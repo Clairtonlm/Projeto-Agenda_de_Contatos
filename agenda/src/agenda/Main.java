@@ -2,6 +2,7 @@ package agenda;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Ola mundo ");
+        Contato contato1 = new Contato(null, null, null);
+        System.out.println(contato1);
     }
 }
