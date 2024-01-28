@@ -31,5 +31,24 @@ public class Contato {
         }
         return false;
     }
+
+	public Long getId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Long getNome() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Telefone[] getTelefones() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+
+	
 }
 
