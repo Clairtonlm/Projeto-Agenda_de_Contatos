@@ -16,7 +16,7 @@ public class Contato {
         this.telefones = new ArrayList<>();
     }
 
-    // Getters and Setters
+    // Getters e Setters
 
     public void adicionarTelefone(String ddd, Long numero) {
         Telefone telefone = new Telefone(ddd, numero);

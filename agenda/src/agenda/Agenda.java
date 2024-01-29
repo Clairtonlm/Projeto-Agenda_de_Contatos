@@ -32,8 +32,8 @@ class Agenda {
     public void editarContato(Long id, String novoNome, String novoSobreNome) {
         for (Contato contato : contatos) {
             if (contato.getId().equals(id)) {
-                contato.setNome(novoNome);
-                contato.setNome(novoSobreNome);
+                //contato.setNome(novoNome);
+                //contato.setNome(novoSobreNome);
                 salvarDados();
                 System.out.println("Contato editado com sucesso!");
                 return;

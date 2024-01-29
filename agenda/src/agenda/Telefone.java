@@ -9,7 +9,7 @@ public class Telefone {
         this.numero = numero;
     }
 
-    // Getters and Setters
+    // Getters e Setters
 
     public String getDdd() {
         return ddd;
