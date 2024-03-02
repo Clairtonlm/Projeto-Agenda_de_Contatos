@@ -1,4 +1,4 @@
-# Projeto-Agenda_de_Contatos Java
+# Projeto-Agenda de Contatos Java
 
 Este é um projeto simples de uma agenda de contatos em Java, utilizando classes para representar contatos, telefones e a agenda em si. O armazenamento dos dados é feito em arquivos de texto, simulando uma base de dados.
 
